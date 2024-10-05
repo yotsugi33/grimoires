@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+<head>
+<meta name="dtb:uid" content="9781409167594"/>
+<meta name="dtb:depth" content="1"/>
+<meta name="dtb:totalPageCount" content="241"/>
+<meta name="dtb:maxPageNumber" content="241"/>
+</head>
+<docTitle>
+<text>Star.Ships</text>
+</docTitle>
+<docAuthor>
+<text>Gordon White</text>
+</docAuthor>
+<navMap>
+<navPoint class="Cover" id="Cover" playOrder="1">
+<navLabel><text>Cover</text></navLabel>
+<content src="00_Cover.xhtml"/>
+</navPoint>
+<navPoint class="Half" id="Half" playOrder="2">
+<navLabel><text>Half-title Page</text></navLabel>
+<content src="01_Half.xhtml"/>
+</navPoint>
+<navPoint class="Title" id="Title" playOrder="3">
+<navLabel><text>Title Page</text></navLabel>
+<content src="02_Title.xhtml"/>
+</navPoint>
+<navPoint class="Copy" id="Copy" playOrder="4">
+<navLabel><text>Copyright</text></navLabel>
+<content src="03_Copy.xhtml"/>
+</navPoint>
+<navPoint class="Contents" id="Contents" playOrder="5">
+<navLabel><text>Contents</text></navLabel>
+<content src="04_Contents.xhtml"/>
+</navPoint>
+<navPoint class="Chapter" id="Illu" playOrder="6">
+<navLabel><text>Illustrations</text></navLabel>
+<content src="05_Illustrations.xhtml"/>
+</navPoint>
+<navPoint class="Chapter" id="Prologue" playOrder="7">
+<navLabel><text>Preface The Mission at the End of the World</text></navLabel>
+<content src="07_Prologue.xhtml"/>
+</navPoint>
+<navPoint class="Chapter" id="Chapter01" playOrder="8">
+<navLabel><text>I One Funeral at a Time</text></navLabel>
+<content src="08_Chapter01.xhtml"/>
+</navPoint>
+<navPoint class="Chapter" id="Chapter02" playOrder="9">
+<navLabel><text>II The Cathedral Predates the City</text></navLabel>
+<content src="09_Chapter02.xhtml"/>
+</navPoint>
+<navPoint class="Chapter" id="Chapter03" playOrder="10">
+<navLabel><text>III Et in Laurasia Ego</text></navLabel>
+<content src="10_Chapter03.xhtml"/>
+</navPoint>
+<navPoint class="Chapter" id="Chapter04" playOrder="11">
+<navLabel><text>IV Island of Dragons</text></navLabel>
+<content src="11_Chapter04.xhtml"/>
+</navPoint>
+<navPoint class="Chapter" id="Chapter05" playOrder="12">
+<navLabel><text>V Star Lore</text></navLabel>
+<content src="12_Chapter05.xhtml"/>
+</navPoint>
+<navPoint class="Chapter" id="Chapter06" playOrder="13">
+<navLabel><text>VI How a World Ends</text></navLabel>
+<content src="13_Chapter06.xhtml"/>
+</navPoint>
+<navPoint class="Chapter" id="Chapter07" playOrder="14">
+<navLabel><text>VII Expulsion from Eden</text></navLabel>
+<content src="14_Chapter07.xhtml"/>
+</navPoint>
+<navPoint class="Chapter" id="Chapter08" playOrder="15">
+<navLabel><text>VIII The Mirror of Heaven</text></navLabel>
+<content src="15_Chapter08.xhtml"/>
+</navPoint>
+<navPoint class="Chapter" id="Chapter09" playOrder="16">
+<navLabel><text>IX The Tree of Many Branches</text></navLabel>
+<content src="16_Chapter09.xhtml"/>
+</navPoint>
+<navPoint class="Chapter" id="Chapter10" playOrder="17">
+<navLabel><text>X Children of the Mother of Heaven</text></navLabel>
+<content src="17_Chapter10.xhtml"/>
+</navPoint>
+<navPoint class="Chapter" id="Conclusion" playOrder="18">
+<navLabel><text>Conclusion Canopy of Stars</text></navLabel>
+<content src="18_Conclusion.xhtml"/>
+</navPoint>
+<navPoint class="Chapter" id="Biblio" playOrder="19">
+<navLabel><text>Bibliography</text></navLabel>
+<content src="19_Biblio.xhtml"/>
+</navPoint>
+<navPoint class="Chapter" id="Index" playOrder="20">
+<navLabel><text>Index</text></navLabel>
+<content src="20_Index.xhtml"/>
+</navPoint>
+</navMap>
+</ncx>

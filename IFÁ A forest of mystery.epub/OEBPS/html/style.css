@@ -1,0 +1,526 @@
+@font-face {
+font-family:"DejaVuSans";
+font-style:normal;
+font-weight:normal;
+src:url(fonts/DejaVuSans.ttf);
+}
+.deja{font-family:"DejaVuSans";}
+
+
+@font-face {
+font-family:"Phonetic";
+font-style:normal;
+font-weight:normal;
+src:url(fonts/Phonetic_IPA.ttf);
+}	
+@font-face {
+ font-family:"SkolarSans-Sb";
+ font-style:normal;
+ font-weight:normal;
+ src:url(fonts/SkolarSans-Sb.otf);
+}
+@font-face {
+ font-family:"SkolarSans-Bd";
+ font-style:normal;
+ font-weight:normal;
+ src:url(fonts/SkolarSans-Bd.otf);
+}
+@font-face {
+ font-family:"SkolarSans-SbIt";
+ font-style:normal;
+ font-weight:normal;
+ src:url(fonts/SkolarSans-SbIt.otf);
+}
+
+@font-face {
+ font-family:"SkolarPE";
+ font-style:normal;
+ font-weight:normal;
+ src:url(fonts/SkolarPE-Regular.otf);
+}
+@font-face {
+ font-family:"SkolarPE";
+ font-weight:normal;
+ font-style:italic;
+ src:url(fonts/SkolarPE-Italic.otf);
+}
+@font-face {
+ font-family:"SkolarPE";
+ font-style:normal;
+ font-weight:bold;
+ src:url(fonts/SkolarPE-Semibold.otf);
+}
+@font-face {
+ font-family:"SkolarPE";
+ font-style:italic;
+ font-weight:bold;
+ src:url(fonts/SkolarPE-SemiboldItalic.otf);
+}
+
+@font-face {
+ font-family:"SkolarPE-Regular-1";
+ font-style:normal;
+ font-weight:normal;
+ src:url(fonts/SkolarPE-Regular-1.otf);
+}
+@font-face {
+ font-family:"SkolarPE-Regular-1";
+ font-style:italic;
+ font-weight:normal;
+ src:url(fonts/SkolarPE-Italic-1.otf);
+}
+
+@font-face {
+ font-family:"SkolarSans-Rg";
+ font-style:normal;
+ font-weight:normal;
+ src:url(fonts/SkolarSans-Rg.otf);
+}
+
+@font-face {
+ font-family:"SkolarSans-It";
+ font-style:normal;
+ font-weight:normal;
+ src:url(fonts/SkolarSans-It.otf);
+}
+
+@font-face {
+ font-family:"SkolarSans-MeIt";
+ font-style:normal;
+ font-weight:normal;
+ src:url(fonts/SkolarSans-MeIt.otf);
+}
+
+@font-face {
+ font-family:"SkolarSans-MeIt-1";
+ font-style:normal;
+ font-weight:normal;
+ src:url(fonts/SkolarSans-MeIt-1.otf);
+}
+
+@font-face {
+ font-family:"SkolarSans-Eb";
+ font-style:normal;
+ font-weight:normal;
+ src:url(fonts/SkolarSans-Eb.otf);
+}
+
+@font-face {
+ font-family:"SkolarSans-Me";
+ font-style:normal;
+ font-weight:normal;
+ src:url(fonts/SkolarSans-Me.otf);
+}
+
+@font-face {
+ font-family:"SkolarSans-Rg-1";
+ font-style:normal;
+ font-weight:normal;
+ src:url(fonts/SkolarSans-Rg-1.otf);
+}
+
+
+@font-face {
+ font-family:"SkolarSans-It-1";
+ font-style:normal;
+ font-weight:normal;
+ src:url(fonts/SkolarSans-It-1.otf);
+}
+
+@font-face {
+ font-family:"SkolarSans-SbIt-1";
+ font-style:normal;
+ font-weight:normal;
+ src:url(fonts/SkolarSans-SbIt-1.otf);
+}
+
+
+
+/* Default */
+
+body
+{
+margin-top:16px;
+margin-bottom:16px;
+margin-right:16px;
+margin-left:16px;
+text-indent:0px;
+line-height:125%;
+}
+a {text-decoration:none;}
+
+sup {font-size:65%;}
+
+.small {font-family:"SkolarPE-Regular-1"}
+.small1 {font-family:"SkolarPE-Regular-1"}
+.testing{ font-family:"SkolarSans-Sb";}
+.testing1{ font-family:"SkolarSans-SbIt-1";}
+
+
+.small666{font-size:75%;font-family:"SkolarPE-Regular-1";}
+.smt888{font-size:75%;}
+.smt666{font-size:75%;font-weight:bold;}
+.smt333{font-family:"DejaVuSans";font-weight:600;font-size:93%;}
+	
+/* Pagebreak */
+.pagebreak {page-break-before:always; padding-top:20px;}
+.pagebreak1 {page-break-before:always;}
+
+/* Cover */
+.cover {margin-top:0px; margin-left:0px; margin-right:0px; margin-bottom:0px; text-align:center; background-color:#ffffff;}
+.coverimage {height:100%}
+
+/* Titlepage */
+.halftitle {font-size:100%; font-family:"SkolarSans-Sb"; text-indent:0; margin-left:0px; margin-right:0px; margin-top:100px; margin-bottom:0px; text-align:center}
+.author {font-size:100%; font-family:"SkolarSans-Sb"; text-indent:0; margin-left:0px; margin-right:0px; margin-top:60px; margin-bottom:0px; text-align:center;}
+.title {font-size:300%; font-family:"SkolarSans-Bd"; font-style:normal; font-weight:normal; text-indent:0; margin-left:0px; margin-right:0px; margin-top:140px; margin-bottom:0px; text-align:center}
+.subtitle {font-size:200%; font-family:"SkolarSans-SbIt"; font-style:normal; font-weight:normal; text-indent:0; margin-left:0px; margin-right:0px; margin-top:16px; margin-bottom:0px; text-align:center}
+.publisher {font-size:100%; font-family:"SkolarSans-Sb"; text-indent:0; margin-left:0px; margin-right:0px; margin-top:200px; margin-bottom:0px; text-align:center;}
+
+/* Copyright */
+.copy {font-size:90%; font-family:"SkolarPE"; font-style:normal; font-weight:normal; text-indent:0; margin-left:20px; margin-right:20px; margin-top:0; margin-bottom:0; text-align:left;}
+.copy1 {font-size:90%; font-family:"SkolarPE"; font-style:normal; font-weight:normal; text-indent:0; margin-left:20px; margin-right:20px; margin-top:200px; margin-bottom:0px; text-align:left;}
+.copy2 {font-size:90%; font-family:"SkolarPE"; font-style:normal; font-weight:normal; text-indent:0; margin-left:20px; margin-right:20px; margin-top:20px; margin-bottom:0px; text-align:left;}
+
+.italic {font-style:italic;}
+.bold {font-weight:bold;}
+
+/* TOC */
+.toc_part {font-size:110%; font-family:"SkolarSans-Sb"; font-style:normal; font-weight:normal; text-indent:0px; margin-left:0px; margin-right:0px; margin-top:30px; margin-bottom:10px; text-align:left;}
+.toc_chap {font-size:100%; font-family:"SkolarPE"; font-style:normal; font-weight:normal; text-indent:0px; margin-left:20px; margin-right:0px; margin-top:10px; margin-bottom:0px; text-align:left;}
+.toc_chap1 {font-size:100%; font-family:"SkolarPE"; font-style:normal; font-weight:normal; text-indent:0px; margin-left:20px; margin-right:0px; margin-top:25px; margin-bottom:0px; text-align:left;}
+
+
+/* Header */
+.fmtitle {font-size:230%; font-family:"SkolarSans-SbIt"; font-style:normal; font-weight:normal; text-indent:0; margin-left:0px; margin-right:0px; margin-top:80px; margin-bottom:20px; text-align:left;}
+.fmtitle1 {font-size:230%; font-family:"SkolarSans-SbIt"; font-style:normal; font-weight:normal; text-indent:0; margin-left:15px; margin-right:0px; margin-top:80px; margin-bottom:20px; text-align:left;}
+.fmtitle2 {font-size:230%; font-family:"SkolarSans-SbIt"; font-style:normal; font-weight:normal; text-indent:0; margin-left:0px; margin-right:0px; margin-top:80px; margin-bottom:80px; text-align:left;}
+.partno {font-size:230%; font-family:"SkolarSans-Bd"; font-style:normal; font-weight:normal; text-indent:0; margin-left:0px; margin-right:0px; margin-top:80px; margin-bottom:80px; text-align:center;}
+.parttitle {font-size:230%; font-family:"SkolarSans-Bd"; font-style:normal; font-weight:normal; text-indent:0; margin-left:0px; margin-right:0px; margin-top:100px; margin-bottom:80px; text-align:center;}
+.chaptitle {font-size:230%; font-family:"SkolarSans-SbIt-1"; font-style:normal; font-weight:normal; text-indent:0; margin-left:0px; margin-right:0px; margin-top:80px; margin-bottom:100px; text-align:left;}
+.chaptitle1 {font-size:230%; font-family:"SkolarSans-Sb"; font-style:normal; font-weight:normal; text-indent:0; margin-left:0px; margin-right:0px; margin-top:80px; margin-bottom:20px; text-align:left;}
+.chapimg {font-size:230%; font-family:"SkolarSans-Sb"; font-style:normal; font-weight:normal; text-indent:0; margin-left:0px; margin-right:0px; margin-top:10px; margin-bottom:10px; text-align:center;}
+.chapsub {font-size:230%; font-family:"SkolarSans-SbIt-1"; font-style:normal; font-weight:normal; text-indent:0; margin-left:40%; margin-right:0px; margin-top:40px; margin-bottom:20px; text-align:right;line-height:125%;}
+
+.h3 {font-size:130%; font-family:"SkolarSans-Sb"; font-style:normal; font-weight:normal; text-indent:0; margin-left:16px; margin-right:0px; margin-top:30px; margin-bottom:20px; text-align:left;}
+
+.fm_center {text-indent:0px; margin-top:2px; margin-bottom:0; font-family:"SkolarPE"; text-align:center;}
+.fm_center1 {text-indent:0px; margin-top:30px; margin-bottom:0; font-family:"SkolarPE"; text-align:center;}
+.fm_center2 {text-indent:0px; margin-top:15px; margin-bottom:0; font-family:"SkolarPE"; text-align:center;}
+.img_center {text-indent:0px; margin-top:16px; margin-bottom:16px; font-family:"SkolarPE"; text-align:center;}
+
+.list_para
+{
+font-family:"SkolarPE";
+margin-top:16px;
+margin-bottom:0px;
+margin-right:0px;
+margin-left:20px;
+text-indent:-20px;
+text-align:justify;
+}
+
+.sans{font-family:sans-serif; font-size:95%;}
+
+/* Sections/Sub-Sections */
+
+p.noindent
+{
+font-family:"SkolarPE";
+margin-top:0px;
+margin-bottom:0px;
+margin-right:0px;
+margin-left:0px;
+text-indent:0px;
+text-align:justify;
+}
+
+p.noindent1
+{
+font-family:"SkolarPE";
+margin-top:20px;
+margin-bottom:0px;
+margin-right:0px;
+margin-left:0px;
+text-indent:0px;
+text-align:justify;
+}
+
+p.noindent2
+{
+font-family:"SkolarPE";
+margin-top:10px;
+margin-bottom:0px;
+margin-right:0px;
+margin-left:0px;
+text-indent:0px;
+text-align:justify;
+}
+
+p.noindent3
+{
+font-family:"SkolarPE";
+margin-top:30px;
+margin-bottom:0px;
+margin-right:0px;
+margin-left:0px;
+text-indent:0px;
+text-align:justify;
+}
+
+.indent {text-indent:16px; margin-top:0; margin-bottom:0; font-family:"SkolarPE"; text-align:justify;}
+.indent1 {text-indent:16px; margin-top:20px; margin-bottom:0; font-family:"SkolarPE"; text-align:justify;}
+
+.index_para
+{
+font-family:"SkolarPE";
+font-size:90%;
+margin-top:20px;
+margin-bottom:20px;
+margin-right:0px;
+margin-left:0px;
+text-indent:0px;
+text-align:justify;
+}
+.index
+{
+font-family:"SkolarPE";
+font-size:90%;
+margin-top:0px;
+margin-bottom:0px;
+margin-right:0px;
+margin-left:16px;
+text-indent:-16px;
+text-align:justify;
+}
+.index1
+{
+font-family:"SkolarPE";
+font-size:90%;
+margin-top:20px;
+margin-bottom:0px;
+margin-right:0px;
+margin-left:16px;
+text-indent:-16px;
+text-align:justify;
+}
+.index_sub
+{
+font-family:"SkolarPE";
+font-size:90%;
+margin-top:0px;
+margin-bottom:0px;
+margin-right:0px;
+margin-left:32px;
+text-indent:-16px;
+text-align:justify;
+}
+.index2
+{
+font-family:"SkolarPE";
+font-size:90%;
+margin-top:0px;
+margin-bottom:0px;
+margin-right:0px;
+margin-left:45px;
+text-indent:-16px;
+text-align:justify;
+}
+.indext
+{
+font-family:"SkolarSans-Sb";
+font-size:90%;
+margin-top:16px;
+margin-bottom:0px;
+margin-right:0px;
+margin-left:16px;
+text-indent:-16px;
+text-align:justify;
+}.hang_para
+{
+font-family:"SkolarPE";
+margin-top:0px;
+margin-bottom:0px;
+margin-right:0px;
+margin-left:20px;
+text-indent:-20px;
+text-align:justify;
+}
+.hang_para1
+{
+font-family:"SkolarPE";
+margin-top:20px;
+margin-bottom:0px;
+margin-right:0px;
+margin-left:20px;
+text-indent:-20px;
+text-align:justify;
+}
+
+
+.box_bg
+{
+background-color:#dbdbdb;
+border:1px solid black;
+margin-top:20px;
+margin-bottom:20px;
+padding:10px;
+}
+.box_h {font-size:100%; font-family:"SkolarPE"; font-style:normal; font-weight:normal; text-indent:0; margin-left:0px; margin-right:20px; margin-top:0px; margin-bottom:0px; text-align:left;}
+.box
+{
+border:1px solid black;
+margin-top:20px;
+margin-bottom:20px;
+padding:10px;
+}
+
+.number {font-size:100%; font-family:"SkolarPE"; text-indent:0; margin-left:20px; margin-right:+0; margin-top:0px; margin-bottom:+0; text-align:justify;}
+.number1 {font-size:100%; font-family:"SkolarPE"; text-indent:0; margin-left:20px; margin-right:20px; margin-top:20px; margin-bottom:+0; text-align:justify;}
+.list {font-size:100%; font-family:"SkolarPE"; text-indent:0; margin-left:36px; margin-right:+0; margin-top:0px; margin-bottom:+0; text-align:justify;}
+.list1 {font-size:100%; font-family:"SkolarPE"; text-indent:0; margin-left:36px; margin-right:+0; margin-top:16px; margin-bottom:+0; text-align:justify;}
+.list_num {float:left; margin-left:-20px;}
+
+.foot {font-size:80%; font-family:"SkolarPE"; text-indent:0; margin-left:20px; margin-right:+0; margin-top:10px; margin-bottom:+0; text-align:justify;}
+.foot_num {float:left; margin-left:-20px;}
+
+.block {font-size:100%; margin-left:20px; margin-right:20px; margin-top:20px; margin-bottom:20px;}
+
+.center {text-indent:0px; margin-top:0px; margin-bottom:0; font-family:"SkolarPE"; text-align:center;}
+.center1 {text-indent:0px; margin-top:16px; margin-bottom:0; font-family:"SkolarPE"; text-align:center;}
+.right {font-size:100%; text-indent:0px; margin-top:0px; margin-bottom:0; font-family:"SkolarPE"; text-align:right;}
+.right1 {font-size:100%; text-indent:0px; margin-top:16px; margin-bottom:0; font-family:"SkolarPE"; text-align:right;}
+.underline {text-decoration:underline;}
+
+.caption {font-size:90%; font-family:"SkolarPE"; text-indent:0; text-align:center; margin-top:15px; margin-bottom:5px; margin-left:20px; margin-right:20px;}
+.image {text-indent:0; text-align:center; margin-top:10px; margin-bottom:10px;}
+.image1 {text-indent:0; text-align:center; margin-top:20px; margin-bottom:5px;}
+.caption1 {font-size:90%; font-family:"SkolarPE"; text-indent:0; text-align:center; margin-top:5px; margin-bottom:20px; margin-left:0px; margin-right:0px;}
+
+table{
+border-color:Black;
+}
+
+.table{
+border-color:Black;
+margin-top:20px;
+margin-bottom:20px;
+width:100%;
+}
+
+p.tab_head
+{
+font-family:"SkolarSans-Sb";
+margin-top:0px;
+margin-bottom:7px;
+margin-right:16px;
+margin-left:16px;
+text-indent:0px;
+text-align:left;
+}
+p.tab_para
+{
+font-family:"SkolarPE";
+margin-top:0px;
+margin-bottom:0px;
+margin-right:16px;
+margin-left:16px;
+text-indent:0px;
+text-align:left;
+}
+
+
+span.dropcap
+{
+    font-family:"SkolarPE";
+    font-weight:normal;
+    font-size:300%;
+    margin-top:-7px;
+    margin-bottom:-20px;
+    padding-top:0px;
+    text-indent:0px;
+    float:left;
+}
+
+.bmtitle {font-size:140%; font-family:"SkolarPE"; font-style:normal; font-weight:normal; text-indent:0; margin-left:0px; margin-right:0px; margin-top:70px; margin-bottom:0px; text-align:center;}
+.bmtitle1 {font-size:140%; font-family:"SkolarPE"; font-style:normal; font-weight:normal; text-indent:0; margin-left:0px; margin-right:0px; margin-top:16px; margin-bottom:16px; text-align:center;}
+.centerbm {text-indent:0px; margin-top:0px; margin-bottom:50px; font-family:"SkolarPE"; text-align:center;}
+.tab {font-size:100%; font-family:"SkolarPE"; text-indent:0; margin-left:0; margin-right:0px; margin-top:4px; margin-bottom:4px; text-align:center;}
+.tab1 {font-size:100%; font-family:"SkolarPE"; text-indent:0; margin-left:0; margin-right:0px; margin-top:16px; margin-bottom:4px; text-align:center;}
+.bor-tb
+{
+border-top:1px solid black;
+border-bottom:1px solid black;
+padding:8px;
+}
+.bor-b
+{
+border-bottom:1px solid black;
+padding:8px;
+}
+.h3bm {font-size:100%; font-family:"SkolarPE"; font-style:normal; font-weight:normal; text-indent:0; margin-left:0px; margin-right:0px; margin-top:16px; margin-bottom:16px; text-align:center;}
+.notes {font-size:90%; font-family:"SkolarPE"; text-indent:0; margin-left:24px; margin-right:+0; margin-top:0px; margin-bottom:+0; text-align:justify;}
+.list-text
+{
+    float:left;
+    margin-left:-24px;
+}
+.bib
+{
+font-family:"SkolarPE";
+font-size:90%;
+margin-top:4px;
+margin-bottom:0px;
+margin-right:0px;
+margin-left:20px;
+text-indent:-20px;
+text-align:justify;
+}
+.index
+{
+font-family:"SkolarPE";
+font-size:90%;
+margin-top:0px;
+margin-bottom:0px;
+margin-right:0px;
+margin-left:16px;
+text-indent:-16px;
+text-align:justify;
+}
+.index1
+{
+font-family:"SkolarPE";
+font-size:90%;
+margin-top:0px;
+margin-bottom:0px;
+margin-right:0px;
+margin-left:32px;
+text-indent:-16px;
+text-align:justify;
+}
+.indext
+{
+font-family:"SkolarPE";
+font-size:90%;
+margin-top:16px;
+margin-bottom:0px;
+margin-right:0px;
+margin-left:16px;
+text-indent:-16px;
+text-align:justify;
+}
+
+@media amzn-kf8
+{
+.WDH218{width:44%;height:auto;}
+.WDH219{width:44%;height:auto;}
+.WDH265{width:53%;height:auto;}
+.WDH404{width:81%;height:auto;}
+.WDH40{width:8%;height:auto;}
+.WDH504{width:100%;height:auto;}
+.WDH509{width:100%;height:auto;}
+.WDH555{width:100%;height:auto;}
+.WDH556{width:100%;height:auto;}
+.WDH66{width:13%;height:auto;}
+.WDH67{width:13%;height:auto;}
+}

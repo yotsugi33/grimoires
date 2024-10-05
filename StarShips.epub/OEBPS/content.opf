@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<package version="2.0" xmlns="http://www.idpf.org/2007/opf"
+         unique-identifier="isbn">
+ <metadata xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:opf="http://www.idpf.org/2007/opf">
+   <dc:title>Star.Ships</dc:title>
+   <dc:creator>Gordon White</dc:creator>
+   <dc:language>en-US</dc:language>
+   <dc:rights>&#169; Gordon White</dc:rights>
+   <dc:publisher>Biblioth&#232;que Rouge</dc:publisher>
+   <dc:identifier id="isbn">9780993120084</dc:identifier>
+   <meta name="cover" content="cover-image"/>
+ </metadata>
+ <manifest>
+<!-- Fonts -->
+
+<item id="font1" href="fonts/arial.ttf" media-type="application/x-font-ttf"/>
+<item id="font2" href="fonts/arialbd.ttf" media-type="application/x-font-ttf"/>
+<item id="font3" href="fonts/arialbi.ttf" media-type="application/x-font-ttf"/>
+<item id="font4" href="fonts/ariali.ttf" media-type="application/x-font-ttf"/>
+<item id="font5" href="fonts/Futura-Bold.ttf" media-type="application/x-font-ttf"/>
+<item id="font6" href="fonts/Futura-BoldItalic.ttf" media-type="application/x-font-ttf"/>
+<item id="font7" href="fonts/Futura-Italic.ttf" media-type="application/x-font-ttf"/>
+<item id="font8" href="fonts/Futura-Normal.ttf" media-type="application/x-font-ttf"/>
+
+<!-- Images -->
+
+<item href="images/Frontcover.jpg" id="cover-image" media-type="image/jpeg"/>
+<item href="images/f000x-01.jpg" id="f0012-01" media-type="image/jpeg"/>
+<item href="images/f0020-01.jpg" id="f0016-01" media-type="image/jpeg"/>
+<item href="images/f0024-01.jpg" id="f0024-01" media-type="image/jpeg"/>
+<item href="images/f0028-01.jpg" id="f0040-01" media-type="image/jpeg"/>
+<item href="images/f0066-01.jpg" id="f0047-01" media-type="image/jpeg"/>
+<item href="images/f0071-01.jpg" id="f0049-01" media-type="image/jpeg"/>
+<item href="images/f0079-01.jpg" id="f0050-01" media-type="image/jpeg"/>
+<item href="images/f0084-01.jpg" id="f0053-01" media-type="image/jpeg"/>
+<item href="images/f0102-01.jpg" id="f0054-01" media-type="image/jpeg"/>
+<item href="images/f0127-01.jpg" id="f0055-01" media-type="image/jpeg"/>
+<item href="images/f0130-01.jpg" id="f0057-01" media-type="image/jpeg"/>
+<item href="images/f0141-01.jpg" id="f0058-01" media-type="image/jpeg"/>
+<item href="images/f0142-01.jpg" id="f0061-01" media-type="image/jpeg"/>
+<item href="images/f0166-01.jpg" id="f0066-01" media-type="image/jpeg"/>
+<item href="images/f0172-01.jpg" id="f0069-01" media-type="image/jpeg"/>
+<item href="images/f0179-01.jpg" id="f0070-01" media-type="image/jpeg"/>
+<item href="images/f0189-01.jpg" id="f0072-01" media-type="image/jpeg"/>
+<item href="images/f0195-01.jpg" id="f0074-01" media-type="image/jpeg"/>
+
+<!-- NCX -->
+
+<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+
+<!-- CSS Style Sheets -->
+
+<item id="stylesheet" href="ebook_style.css" media-type="text/css"/>
+
+<!-- Content Documents -->
+
+<item id="Cover" href="00_Cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="Half" href="01_Half.xhtml" media-type="application/xhtml+xml"/>
+<item id="titlep" href="02_Title.xhtml" media-type="application/xhtml+xml"/>
+<item id="Copy" href="03_Copy.xhtml" media-type="application/xhtml+xml"/>
+<item id="Contents" href="04_Contents.xhtml" media-type="application/xhtml+xml"/>
+<item id="Illustrations" href="05_Illustrations.xhtml" media-type="application/xhtml+xml"/>
+<item id="Front" href="06_Front.xhtml" media-type="application/xhtml+xml"/>
+<item id="Prologue" href="07_Prologue.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter01" href="08_Chapter01.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter02" href="09_Chapter02.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter03" href="10_Chapter03.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter04" href="11_Chapter04.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter05" href="12_Chapter05.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter06" href="13_Chapter06.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter07" href="14_Chapter07.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter08" href="15_Chapter08.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter09" href="16_Chapter09.xhtml" media-type="application/xhtml+xml"/>
+<item id="Chapter10" href="17_Chapter10.xhtml" media-type="application/xhtml+xml"/>
+<item id="Conclusion" href="18_Conclusion.xhtml" media-type="application/xhtml+xml"/>
+<item id="Biblio" href="19_Biblio.xhtml" media-type="application/xhtml+xml"/>
+<item id="Index" href="20_Index.xhtml" media-type="application/xhtml+xml"/>
+<item id="colo" href="21_Colophon.xhtml" media-type="application/xhtml+xml"/>
+</manifest>
+
+<spine toc="ncx">
+<itemref idref="Cover" linear="yes"/>
+<itemref idref="Half" linear="yes"/>
+<itemref idref="titlep" linear="yes"/>
+<itemref idref="Copy" linear="yes"/>
+<itemref idref="Contents" linear="yes"/>
+<itemref idref="Illustrations" linear="yes"/>
+<itemref idref="Front" linear="yes"/>
+<itemref idref="Prologue" linear="yes"/>
+<itemref idref="Chapter01" linear="yes"/>
+<itemref idref="Chapter02" linear="yes"/>
+<itemref idref="Chapter03" linear="yes"/>
+<itemref idref="Chapter04" linear="yes"/>
+<itemref idref="Chapter05" linear="yes"/>
+<itemref idref="Chapter06" linear="yes"/>
+<itemref idref="Chapter07" linear="yes"/>
+<itemref idref="Chapter08" linear="yes"/>
+<itemref idref="Chapter09" linear="yes"/>
+<itemref idref="Chapter10" linear="yes"/>
+<itemref idref="Conclusion" linear="yes"/>
+<itemref idref="Biblio" linear="yes"/>
+<itemref idref="Index" linear="yes"/>
+<itemref idref="colo" linear="yes"/>
+</spine>
+
+<guide>	
+<reference type="cover" title="Cover" href="00_Cover.xhtml"/>
+<reference type="x0001" title="Half-title Page" href="01_Half.xhtml"/>
+<reference type="text" title="Title Page" href="02_Title.xhtml"/>
+<reference type="x0002" title="Copyright" href="03_Copy.xhtml"/>
+<reference type="toc" title="Contents" href="04_Contents.xhtml"/>
+<reference type="x0003" title="Illustrations" href="05_Illustrations.xhtml"/>
+<reference type="x0004" title="Prologue" href="07_Prologue.xhtml"/>
+<reference type="x0005" title="I One Funeral at a Time" href="08_Chapter01.xhtml"/>
+<reference type="x0006" title="II The Cathedral Predates the City" href="09_Chapter02.xhtml"/>
+<reference type="x0007" title="III Et in Laurasia Ego" href="10_Chapter03.xhtml"/>
+<reference type="x0008" title="IV Island of Dragons" href="11_Chapter04.xhtml"/>
+<reference type="x0009" title="V Star Lore" href="12_Chapter05.xhtml"/>
+<reference type="x0010" title="VI How a World Ends" href="13_Chapter06.xhtml"/>
+<reference type="x0011" title="VII Expulsion from Eden" href="14_Chapter07.xhtml"/>
+<reference type="x0012" title="VIII The Mirror of Heaven" href="15_Chapter08.xhtml"/>
+<reference type="x0013" title="IX The Tree of Many Branches" href="16_Chapter09.xhtml"/>
+<reference type="x0014" title="X Children of the Mother of Heaven" href="17_Chapter10.xhtml"/>
+<reference type="x0015" title="Conclusion Canopy of Stars" href="18_Conclusion.xhtml"/>
+<reference type="x0016" title="Bibliography" href="19_Biblio.xhtml"/>
+<reference type="x0017" title="Index" href="20_Index.xhtml"/>
+</guide>
+</package>

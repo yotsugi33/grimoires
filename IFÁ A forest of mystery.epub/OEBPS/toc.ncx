@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC
+     "-//NISO//DTD ncx 2005-1//EN"
+     "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx version="2005-1"
+     xml:lang="en-US"
+     xmlns="http://www.daisy.org/z3986/2005/ncx/">
+   <head>
+      <meta name="dtb:uid" content="9780993120022"/>
+      <meta name="dtb:depth" content="1"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+<docTitle><text>IF&#x00C1;: A forest of mystery</text></docTitle>
+<navMap>
+<navPoint id="navpoint-1" playOrder="1"><navLabel><text>Cover</text></navLabel><content src="html/00_cover.xhtml"/></navPoint>
+<navPoint id="navpoint-2" playOrder="2"><navLabel><text>Title Page</text></navLabel><content src="html/02_tp.xhtml"/></navPoint>
+<navPoint id="navpoint-3" playOrder="3"><navLabel><text>Copyright</text></navLabel><content src="html/03_copyright.xhtml"/></navPoint>
+<navPoint id="navpoint-4" playOrder="4"><navLabel><text>Contents</text></navLabel><content src="html/04_contents.xhtml"/></navPoint>
+<navPoint id="navpoint-5" playOrder="5"><navLabel><text>Illustrations</text></navLabel><content src="html/05_front01.xhtml"/></navPoint>
+<navPoint id="navpoint-6" playOrder="6"><navLabel><text>Preface by Chief &#210;g&#250;n&#7779;&#237;n&#224; Ad&#233;wuy&#236;</text></navLabel><content src="html/06_front02.xhtml"/></navPoint>
+<navPoint id="navpoint-7" playOrder="7"><navLabel><text>Introduction</text></navLabel><content src="html/07_front03.xhtml"/></navPoint>
+<navPoint id="navpoint-8" playOrder="8"><navLabel><text>Part I &#183; A Philosophy of Character</text></navLabel><content src="html/08_part01.xhtml"/>
+<navPoint id="navpoint-9" playOrder="9"><navLabel><text>The timeless wisdom of If&#225;</text></navLabel><content src="html/09_chapter01.xhtml"/></navPoint>
+<navPoint id="navpoint-10" playOrder="10"><navLabel><text>&#7884;&#768;r&#250;nm&#236;l&#224; and the secret structure of od&#249;</text></navLabel><content src="html/10_chapter02.xhtml"/></navPoint>
+<navPoint id="navpoint-11" playOrder="11"><navLabel><text>The art of divination</text></navLabel><content src="html/11_chapter03.xhtml"/></navPoint>
+<navPoint id="navpoint-12" playOrder="12"><navLabel><text>The cosmology of If&#225;</text></navLabel><content src="html/12_chapter04.xhtml"/></navPoint></navPoint>
+<navPoint id="navpoint-13" playOrder="13"><navLabel><text>Part II &#183; A Forest of Mystery</text></navLabel><content src="html/13_part02.xhtml"/>
+<navPoint id="navpoint-14" playOrder="14"><navLabel><text>&#200;J&#204; OGB&#200; &#183; The moist air of consciousness</text></navLabel><content src="html/14_chapter05.xhtml"/></navPoint>
+<navPoint id="navpoint-15" playOrder="15"><navLabel><text>&#7884;&#768;Y&#7864;&#768;K&#218; M&#201;J&#204; &#183; The mother of the spirit of death</text></navLabel><content src="html/15_chapter06.xhtml"/></navPoint>
+<navPoint id="navpoint-16" playOrder="16"><navLabel><text>&#204;W&#210;R&#204; M&#201;J&#204; &#183; Celestial agriculture in the land of transformation</text></navLabel><content src="html/16_chapter07.xhtml"/></navPoint>
+<navPoint id="navpoint-17" playOrder="17"><navLabel><text>&#210;D&#205; M&#201;J&#204; &#183; The house of deep comfort</text></navLabel><content src="html/17_chapter08.xhtml"/></navPoint>
+<navPoint id="navpoint-18" playOrder="18"><navLabel><text>&#204;R&#210;S&#217;N M&#201;J&#204; &#183; The rivers of consciousness</text></navLabel><content src="html/18_chapter09.xhtml"/></navPoint>
+<navPoint id="navpoint-19" playOrder="19"><navLabel><text>&#7884;&#768;W&#7884;&#769;NR&#205;N M&#201;J&#204; &#183; The sweet and bitter track</text></navLabel><content src="html/19_chapter10.xhtml"/></navPoint>
+<navPoint id="navpoint-20" playOrder="20"><navLabel><text>&#7884;&#768;B&#192;R&#192; M&#201;J&#204; &#183; The fork in the road</text></navLabel><content src="html/20_chapter11.xhtml"/></navPoint>
+<navPoint id="navpoint-21" playOrder="21"><navLabel><text>&#7884;&#768;K&#192;NR&#192;N M&#201;J&#204; &#183; The crossroad the heart gave</text></navLabel><content src="html/21_chapter12.xhtml"/></navPoint>
+<navPoint id="navpoint-22" playOrder="22"><navLabel><text>&#210;G&#218;ND&#193; M&#201;J&#204; &#183; The relentless pathmaker </text></navLabel><content src="html/22_chapter13.xhtml"/></navPoint>
+<navPoint id="navpoint-23" playOrder="23"><navLabel><text>&#7884;&#768;S&#193; M&#201;J&#204; &#183; The mysteries of the birds of night</text></navLabel><content src="html/23_chapter14.xhtml"/></navPoint>
+<navPoint id="navpoint-24" playOrder="24"><navLabel><text>&#204;K&#193; M&#201;J&#204; &#183; The wicked cobra of fire</text></navLabel><content src="html/24_chapter15.xhtml"/></navPoint>
+<navPoint id="navpoint-25" playOrder="25"><navLabel><text>&#210;T&#218;R&#218;P&#7884;&#768;N M&#201;J&#204; &#183; The secret path of truth</text></navLabel><content src="html/25_chapter16.xhtml"/></navPoint>
+<navPoint id="navpoint-26" playOrder="26"><navLabel><text>&#210;T&#218;R&#193; M&#201;J&#204; &#183; Love&#8217;s gentle harmony</text></navLabel><content src="html/26_chapter17.xhtml"/></navPoint>
+<navPoint id="navpoint-27" playOrder="27"><navLabel><text>&#204;R&#7864;T&#7864;&#768; M&#201;J&#204; &#183; The author of fate</text></navLabel><content src="html/27_chapter18.xhtml"/></navPoint>
+<navPoint id="navpoint-28" playOrder="28"><navLabel><text>&#7884;&#768;&#7778;&#7864;&#769; M&#201;J&#204; &#183; The sweetness of mystery</text></navLabel><content src="html/28_chapter19.xhtml"/></navPoint>
+<navPoint id="navpoint-29" playOrder="29"><navLabel><text>&#210;F&#218;N M&#201;J&#204; &#183; The calabash of character</text></navLabel><content src="html/29_chapter20.xhtml"/></navPoint>
+<navPoint id="navpoint-30" playOrder="30"><navLabel><text>&#7884;&#768;&#7778;&#7864;&#769;T&#218;R&#193; &#183; &#200;&#7779;&#249; and the design of the world </text></navLabel><content src="html/30_chapter21.xhtml"/></navPoint></navPoint>
+<navPoint id="navpoint-31" playOrder="31"><navLabel><text>Glossary</text></navLabel><content src="html/31_back01.xhtml"/></navPoint>
+<navPoint id="navpoint-32" playOrder="32"><navLabel><text>Bibliography</text></navLabel><content src="html/32_back02.xhtml"/></navPoint>
+<navPoint id="navpoint-33" playOrder="33"><navLabel><text>Index</text></navLabel><content src="html/33_back03.xhtml"/></navPoint>
+</navMap>
+</ncx>

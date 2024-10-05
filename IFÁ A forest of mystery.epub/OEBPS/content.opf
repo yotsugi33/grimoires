@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<package version="2.0" unique-identifier="isbn9780993120022" xmlns="http://www.idpf.org/2007/opf">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title>IF&#x00C1;: A forest of mystery</dc:title>
+<dc:creator>Nicholaj de Mattos Frisvold</dc:creator>
+<dc:publisher>Biblioth&#x00E8;que Rouge</dc:publisher>
+<dc:identifier id="isbn9780993120022" opf:scheme="isbn">9780993120022</dc:identifier>
+<dc:language>en</dc:language>
+<dc:rights>Copyright &#169; 2016 Nicholaj de Mattos Frisvold</dc:rights>
+<meta name="cover" content="cover-image"/>
+</metadata>
+<manifest>
+<item id="SkolarPE-Italic_otf" href="html/fonts/SkolarPE-Italic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="SkolarPE-Italic_otf-1" href="html/fonts/SkolarPE-Italic-1.otf" media-type="application/vnd.ms-opentype"/>
+<item id="Phonetic_IPA.ttf" href="html/fonts/Phonetic_IPA.ttf" media-type="application/vnd.ms-opentype"/>
+<item id="SkolarPE-Regular-1_otf" href="html/fonts/SkolarPE-Regular-1.otf" media-type="application/vnd.ms-opentype"/>
+<item id="SkolarPE-Regular_otf" href="html/fonts/SkolarPE-Regular.otf" media-type="application/vnd.ms-opentype"/>
+<item id="SkolarPE-Semibold_otf" href="html/fonts/SkolarPE-Semibold.otf" media-type="application/vnd.ms-opentype"/>
+<item id="SkolarPE-SemiboldItalic_otf" href="html/fonts/SkolarPE-SemiboldItalic.otf" media-type="application/vnd.ms-opentype"/>
+<item id="SkolarSans-Bd_otf" href="html/fonts/SkolarSans-Bd.otf" media-type="application/vnd.ms-opentype"/>
+<item id="SkolarSans-Eb_otf" href="html/fonts/SkolarSans-Eb.otf" media-type="application/vnd.ms-opentype"/>
+<item id="SkolarSans-It-1_otf" href="html/fonts/SkolarSans-It-1.otf" media-type="application/vnd.ms-opentype"/>
+<item id="SkolarSans-It_otf" href="html/fonts/SkolarSans-It.otf" media-type="application/vnd.ms-opentype"/>
+<item id="SkolarSans-Me_otf" href="html/fonts/SkolarSans-Me.otf" media-type="application/vnd.ms-opentype"/>
+<item id="SkolarSans-MeIt-1_otf" href="html/fonts/SkolarSans-MeIt-1.otf" media-type="application/vnd.ms-opentype"/>
+<item id="SkolarSans-MeIt_otf" href="html/fonts/SkolarSans-MeIt.otf" media-type="application/vnd.ms-opentype"/>
+<item id="SkolarSans-Rg-1_otf" href="html/fonts/SkolarSans-Rg-1.otf" media-type="application/vnd.ms-opentype"/>
+<item id="SkolarSans-Rg_otf" href="html/fonts/SkolarSans-Rg.otf" media-type="application/vnd.ms-opentype"/>
+<item id="SkolarSans-Sb_otf" href="html/fonts/SkolarSans-Sb.otf" media-type="application/vnd.ms-opentype"/>
+<item id="SkolarSans-SbIt-1_otf" href="html/fonts/SkolarSans-SbIt-1.otf" media-type="application/vnd.ms-opentype"/>
+<item id="SkolarSans-SbIt_otf" href="html/fonts/SkolarSans-SbIt.otf" media-type="application/vnd.ms-opentype"/>
+<item id="DejaVuSans_ttf" href="html/fonts/DejaVuSans.ttf" media-type="application/vnd.ms-opentype"/>
+
+<item id="cover" href="html/00_cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="body001" href="html/01_half.xhtml" media-type="application/xhtml+xml"/>
+<item id="body002" href="html/02_tp.xhtml" media-type="application/xhtml+xml"/>
+<item id="body003" href="html/03_copyright.xhtml" media-type="application/xhtml+xml"/>
+<item id="body004" href="html/04_contents.xhtml" media-type="application/xhtml+xml"/>
+<item id="body005" href="html/05_front01.xhtml" media-type="application/xhtml+xml"/>
+<item id="body006" href="html/06_front02.xhtml" media-type="application/xhtml+xml"/>
+<item id="body007" href="html/07_front03.xhtml" media-type="application/xhtml+xml"/>
+<item id="body008" href="html/08_part01.xhtml" media-type="application/xhtml+xml"/>
+<item id="body009" href="html/09_chapter01.xhtml" media-type="application/xhtml+xml"/>
+<item id="body010" href="html/10_chapter02.xhtml" media-type="application/xhtml+xml"/>
+<item id="body011" href="html/11_chapter03.xhtml" media-type="application/xhtml+xml"/>
+<item id="body012" href="html/12_chapter04.xhtml" media-type="application/xhtml+xml"/>
+<item id="body013" href="html/13_part02.xhtml" media-type="application/xhtml+xml"/>
+<item id="body014" href="html/14_chapter05.xhtml" media-type="application/xhtml+xml"/>
+<item id="body015" href="html/15_chapter06.xhtml" media-type="application/xhtml+xml"/>
+<item id="body016" href="html/16_chapter07.xhtml" media-type="application/xhtml+xml"/>
+<item id="body017" href="html/17_chapter08.xhtml" media-type="application/xhtml+xml"/>
+<item id="body018" href="html/18_chapter09.xhtml" media-type="application/xhtml+xml"/>
+<item id="body019" href="html/19_chapter10.xhtml" media-type="application/xhtml+xml"/>
+<item id="body020" href="html/20_chapter11.xhtml" media-type="application/xhtml+xml"/>
+<item id="body021" href="html/21_chapter12.xhtml" media-type="application/xhtml+xml"/>
+<item id="body022" href="html/22_chapter13.xhtml" media-type="application/xhtml+xml"/>
+<item id="body023" href="html/23_chapter14.xhtml" media-type="application/xhtml+xml"/>
+<item id="body024" href="html/24_chapter15.xhtml" media-type="application/xhtml+xml"/>
+<item id="body025" href="html/25_chapter16.xhtml" media-type="application/xhtml+xml"/>
+<item id="body026" href="html/26_chapter17.xhtml" media-type="application/xhtml+xml"/>
+<item id="body027" href="html/27_chapter18.xhtml" media-type="application/xhtml+xml"/>
+<item id="body028" href="html/28_chapter19.xhtml" media-type="application/xhtml+xml"/>
+<item id="body029" href="html/29_chapter20.xhtml" media-type="application/xhtml+xml"/>
+<item id="body030" href="html/30_chapter21.xhtml" media-type="application/xhtml+xml"/>
+<item id="body031" href="html/31_back01.xhtml" media-type="application/xhtml+xml"/>
+<item id="body032" href="html/32_back02.xhtml" media-type="application/xhtml+xml"/>
+<item id="body033" href="html/33_back03.xhtml" media-type="application/xhtml+xml"/>
+<item id="body034" href="html/34_copyright.xhtml" media-type="application/xhtml+xml"/>
+
+<item id="stylesheet" href="html/style.css" media-type="text/css"/>
+<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+
+<item id="cover-image" href="html/docimages/cover.jpg" media-type="image/jpeg"/>
+<item id="img001" href="html/docimages/f0069-01.jpg" media-type="image/jpeg"/>
+<item id="img002" href="html/docimages/f0075-01.jpg" media-type="image/jpeg"/>
+<item id="img003" href="html/docimages/f0079-01.jpg" media-type="image/jpeg"/>
+<item id="img004" href="html/docimages/f0080-01.jpg" media-type="image/jpeg"/>
+<item id="img005" href="html/docimages/f0109-01.jpg" media-type="image/jpeg"/>
+<item id="img006" href="html/docimages/f0109-02.jpg" media-type="image/jpeg"/>
+<item id="img007" href="html/docimages/f0109-03.jpg" media-type="image/jpeg"/>
+<item id="img008" href="html/docimages/f0112-01.jpg" media-type="image/jpeg"/>
+<item id="img009" href="html/docimages/f0117-01.jpg" media-type="image/jpeg"/>
+<item id="img010" href="html/docimages/f0128-01.jpg" media-type="image/jpeg"/>
+<item id="img011" href="html/docimages/f0135-01.jpg" media-type="image/jpeg"/>
+<item id="img012" href="html/docimages/f0141-01.jpg" media-type="image/jpeg"/>
+<item id="img013" href="html/docimages/f0143-01.jpg" media-type="image/jpeg"/>
+<item id="img014" href="html/docimages/f0154-01.jpg" media-type="image/jpeg"/>
+<item id="img015" href="html/docimages/f0161-01.jpg" media-type="image/jpeg"/>
+<item id="img016" href="html/docimages/f0169-01.jpg" media-type="image/jpeg"/>
+<item id="img017" href="html/docimages/f0177-01.jpg" media-type="image/jpeg"/>
+<item id="img018" href="html/docimages/f0184-01.jpg" media-type="image/jpeg"/>
+<item id="img019" href="html/docimages/f0191-01.jpg" media-type="image/jpeg"/>
+<item id="img020" href="html/docimages/f0200-01.jpg" media-type="image/jpeg"/>
+<item id="img021" href="html/docimages/f0211-01.jpg" media-type="image/jpeg"/>
+<item id="img022" href="html/docimages/f0215-01.jpg" media-type="image/jpeg"/>
+<item id="img023" href="html/docimages/f0219-01.jpg" media-type="image/jpeg"/>
+<item id="img024" href="html/docimages/f0230-01.jpg" media-type="image/jpeg"/>
+<item id="img025" href="html/docimages/f0235-01.jpg" media-type="image/jpeg"/>
+<item id="img026" href="html/docimages/f0244-01.jpg" media-type="image/jpeg"/>
+<item id="img027" href="html/docimages/f0255-01.jpg" media-type="image/jpeg"/>
+<item id="img028" href="html/docimages/f0260-01.jpg" media-type="image/jpeg"/>
+<item id="img029" href="html/docimages/f0267-01.jpg" media-type="image/jpeg"/>
+<item id="img030" href="html/docimages/f0279-01.jpg" media-type="image/jpeg"/>
+<item id="img031" href="html/docimages/f0287-01.jpg" media-type="image/jpeg"/>
+<item id="img032" href="html/docimages/f0292-01.jpg" media-type="image/jpeg"/>
+<item id="img033" href="html/docimages/f0301-01.jpg" media-type="image/jpeg"/>
+<item id="img034" href="html/docimages/f0308-01.jpg" media-type="image/jpeg"/>
+<item id="img035" href="html/docimages/f0313-01.jpg" media-type="image/jpeg"/>
+<item id="img036" href="html/docimages/f0325-01.jpg" media-type="image/jpeg"/>
+<item id="img037" href="html/docimages/f0329-01.jpg" media-type="image/jpeg"/>
+<item id="img038" href="html/docimages/f0340-01.jpg" media-type="image/jpeg"/>
+<item id="img039" href="html/docimages/f0345-01.jpg" media-type="image/jpeg"/>
+<item id="img040" href="html/docimages/f0355-01.jpg" media-type="image/jpeg"/>
+<item id="img041" href="html/docimages/f0363-01.jpg" media-type="image/jpeg"/>
+</manifest>
+
+<spine toc="ncx">
+<itemref idref="cover" linear="yes"/>
+<itemref idref="body001" linear="yes"/>
+<itemref idref="body002" linear="yes"/>
+<itemref idref="body003" linear="yes"/>
+<itemref idref="body004" linear="yes"/>
+<itemref idref="body005" linear="yes"/>
+<itemref idref="body006" linear="yes"/>
+<itemref idref="body007" linear="yes"/>
+<itemref idref="body008" linear="yes"/>
+<itemref idref="body009" linear="yes"/>
+<itemref idref="body010" linear="yes"/>
+<itemref idref="body011" linear="yes"/>
+<itemref idref="body012" linear="yes"/>
+<itemref idref="body013" linear="yes"/>
+<itemref idref="body014" linear="yes"/>
+<itemref idref="body015" linear="yes"/>
+<itemref idref="body016" linear="yes"/>
+<itemref idref="body017" linear="yes"/>
+<itemref idref="body018" linear="yes"/>
+<itemref idref="body019" linear="yes"/>
+<itemref idref="body020" linear="yes"/>
+<itemref idref="body021" linear="yes"/>
+<itemref idref="body022" linear="yes"/>
+<itemref idref="body023" linear="yes"/>
+<itemref idref="body024" linear="yes"/>
+<itemref idref="body025" linear="yes"/>
+<itemref idref="body026" linear="yes"/>
+<itemref idref="body027" linear="yes"/>
+<itemref idref="body028" linear="yes"/>
+<itemref idref="body029" linear="yes"/>
+<itemref idref="body030" linear="yes"/>
+<itemref idref="body031" linear="yes"/>
+<itemref idref="body032" linear="yes"/>
+<itemref idref="body033" linear="yes"/>
+<itemref idref="body034" linear="yes"/>
+</spine>
+
+<guide>
+<reference type="text" title="Cover" href="html/00_cover.xhtml"/>
+<reference type="x00002" title="Title Page" href="html/02_tp.xhtml"/>
+<reference type="x00003" title="Copyright" href="html/03_copyright.xhtml"/>
+<reference type="toc" title="Contents" href="html/04_contents.xhtml"/>
+<reference type="x00005" title="Illustrations" href="html/05_front01.xhtml"/>
+<reference type="x00006" title="Preface" href="html/06_front02.xhtml"/>
+<reference type="x00007" title="Introduction" href="html/07_front03.xhtml"/>
+<reference type="x00008" title="Part I - A Philosophy Of Character" href="html/08_part01.xhtml"/>
+<reference type="x00009" title="Part II - A Forest of Mystery" href="html/13_part02.xhtml"/>
+<reference type="x00010" title="Glossary" href="html/31_back01.xhtml"/>
+<reference type="x00011" title="Bibliography" href="html/32_back02.xhtml"/>
+<reference type="x00012" title="Index" href="html/33_back03.xhtml"/>
+</guide>
+
+</package>
